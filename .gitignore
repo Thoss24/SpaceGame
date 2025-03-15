@@ -1,0 +1,33 @@
+# Ignore the build directory
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore the Library directory
+[Ll]ibrary/
+
+# Ignore temporary files
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+
+# Ignore user-specific settings
+[Uu]serSettings/
+*.userprefs
+
+# Ignore Visual Studio files
+*.csproj
+*.sln
+*.user
+*.pidb
+*.sublime-workspace
+*.sublime-project
+
+# Ignore cache files
+*.tmp
+*.bak
+
+# Ignore asset cache
+[Aa]ssets/AssetStoreTools*
+
+# Ignore visual studio code settings
+.vscode/
