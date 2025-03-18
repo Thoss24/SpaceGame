@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tomfo\\Unity Games\\Space game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomfo\\Unity Games\\Space game\\Assets\\AndroidScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AndroidScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{789AFE43-7457-7380-68FA-4D3891B70F6A}|Assembly-CSharp.csproj|c:\\users\\tomfo\\unity games\\space game\\assets\\itempickupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789AFE43-7457-7380-68FA-4D3891B70F6A}|Assembly-CSharp.csproj|solutionrelative:assets\\itempickupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789AFE43-7457-7380-68FA-4D3891B70F6A}|Assembly-CSharp.csproj|C:\\Users\\tomfo\\Unity Games\\Space game\\assets\\androidscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789AFE43-7457-7380-68FA-4D3891B70F6A}|Assembly-CSharp.csproj|solutionrelative:assets\\androidscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789AFE43-7457-7380-68FA-4D3891B70F6A}|Assembly-CSharp.csproj|C:\\Users\\tomfo\\Unity Games\\Space game\\assets\\inventorymanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789AFE43-7457-7380-68FA-4D3891B70F6A}|Assembly-CSharp.csproj|solutionrelative:assets\\inventorymanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ItemPickupScript.cs",
+              "DocumentMoniker": "C:\\Users\\tomfo\\Unity Games\\Space game\\Assets\\ItemPickupScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemPickupScript.cs",
+              "ToolTip": "C:\\Users\\tomfo\\Unity Games\\Space game\\Assets\\ItemPickupScript.cs",
+              "RelativeToolTip": "Assets\\ItemPickupScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:36:14.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\tomfo\\Unity Games\\Space game\\Assets\\InventoryManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\InventoryManagerScript.cs",
+              "ToolTip": "C:\\Users\\tomfo\\Unity Games\\Space game\\Assets\\InventoryManagerScript.cs",
+              "RelativeToolTip": "Assets\\InventoryManagerScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:33:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AndroidScript.cs",
               "DocumentMoniker": "C:\\Users\\tomfo\\Unity Games\\Space game\\Assets\\AndroidScript.cs",
               "RelativeDocumentMoniker": "Assets\\AndroidScript.cs",

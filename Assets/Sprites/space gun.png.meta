@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fbbbb8ce63dd3e24ab8608730eb524e4
+guid: 6c4046c99b294214fb5810fd2e37e389
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5723614895309825863
-    second: ground tile sprite_0
+      213: 7353250513352263090
+    second: space gun_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ground tile sprite_0
+      name: space gun_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 768
+        x: 9
+        y: 9
+        width: 466
+        height: 309
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b85ce5e392a190b0800000000000000
-      internalID: -5723614895309825863
+      spriteID: 2b502d8f16efb0660800000000000000
+      internalID: 7353250513352263090
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ground tile sprite_0: -5723614895309825863
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
